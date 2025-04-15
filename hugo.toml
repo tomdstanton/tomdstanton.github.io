@@ -1,0 +1,5 @@
+baseURL = 'https://tomstanton.github.io/'
+languageCode = 'en-us'
+title = "Tom Stanton's blog"
+theme = 'risotto'
+
