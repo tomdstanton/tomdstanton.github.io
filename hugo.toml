@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = "Tom Stanton's blog"
 theme = 'risotto'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
