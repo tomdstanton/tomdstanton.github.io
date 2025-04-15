@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tom Stanton&#39;s blog</title>
-    <link>http://localhost:51883/</link>
-    <description>Recent content on Tom Stanton&#39;s blog</description>
+    <title>Posts on Tom Stanton&#39;s blog</title>
+    <link>http://localhost:51883/posts/</link>
+    <description>Recent content in Posts on Tom Stanton&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Apr 2025 14:48:27 +1000</lastBuildDate>
-    <atom:link href="http://localhost:51883/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51883/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Oop</title>
       <link>http://localhost:51883/posts/on-oop/</link>
