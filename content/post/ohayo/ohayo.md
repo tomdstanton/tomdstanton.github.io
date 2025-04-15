@@ -1,10 +1,10 @@
 +++
 date = '2025-04-15T14:31:29+10:00'
 draft = true
-title = 'Ohayo'
+title = 'ohayō - おはよう'
+author = 'Tom Stanton'
+tags = ['blog', 'random']
 +++
-
-# ohayō - おはよう 
 
 Yeah fine I concede. 
 
