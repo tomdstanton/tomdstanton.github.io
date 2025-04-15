@@ -2,7 +2,7 @@ baseURL = 'https://tomdstanton.github.io/'
 languageCode = 'en-us'
 title = "Tom Stanton's blog"
 theme = 'hugo-theme-stack'
-copyright = "Example Person"
+copyright = "Thomas David Stanton"
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
@@ -31,7 +31,7 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "Bioinformatics and stuff"
+  subtitle = "A dangerous mix of personal and professional opinions"
 
     [params.sidebar.avatar]
     enabled = true
@@ -50,6 +50,7 @@ rssFullContent = true
   [params.comments]
   enabled = true
   provider = "disqus"
+  disqusShortname = "tomdstanton"
 
     [params.comments.disqusjs]
 
@@ -126,9 +127,6 @@ enabled = true
 
 [params.imageProcessing.content]
 enabled = true
-
-[services.disqus]
-shortname = "tomdstanton"
 
 [services.googleAnalytics]
 id = "G-38T9SV0JKL"
